@@ -10,9 +10,6 @@ import java.net.URISyntaxException;
 @SpringBootApplication
 public class LoadTestingApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(LoadTestingApplication.class, args);
-
-	}
+	public static void main(String[] args) {SpringApplication.run(LoadTestingApplication.class, args);}
 
 }
