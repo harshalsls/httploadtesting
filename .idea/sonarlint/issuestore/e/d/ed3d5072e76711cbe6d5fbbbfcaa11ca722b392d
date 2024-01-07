@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßúÉòÍ1
+\
+java:S1172":Remove these unused method parameters "methodType", "url".(æ²öÌÿÿÿÿÿ8òúÉòÍ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”Ï–ç8ûÆÊòÍ1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¥’‘²ûÿÿÿÿ8šûÉòÍ1
+L	java:S106"+Replace this use of System.out by a logger.(˜Ü©åşÿÿÿÿ8›ûÉòÍ1
